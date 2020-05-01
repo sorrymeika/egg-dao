@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "dao",
   "eggPlugin": {
-    "name": "gateway"
+    "name": "dao"
   },
   "dependencies": {},
   "devDependencies": {
